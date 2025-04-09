@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download TIM VENDAS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao Download do TIM VENDAS</h1>
+        <p>Baixe o arquivo APK abaixo:</p>
+        <a href="apk/Timvendas.apk" class="download-button" download>Baixar APK</a>
+    </div>
+</body>
+</html>
